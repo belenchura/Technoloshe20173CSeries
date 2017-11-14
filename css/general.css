@@ -15,7 +15,7 @@ body{
 
 ul {
     list-style:none;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 /* selector por id, se le agrega el # */
@@ -34,6 +34,7 @@ ul {
     margin-right: 15px;
 }
 
+/*
 .pelicula img{
     float: left;
     height: 200px;
@@ -44,12 +45,12 @@ ul {
     margin-bottom: 30px;
     overflow: hidden;
 }
-
+*/
 /* selector por clase */
-.sinopsis {
+/*.sinopsis {
     font-size: 16px;
 }
-
+*/
 .sinopsis.principal {
     /*font-size: 20px;*/
 }
